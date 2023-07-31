@@ -1,0 +1,9 @@
+rootProject.name = 'MicroServiceMarathon4BerkAktasAntalya'
+include 'auth-service'
+include 'config-server'
+include 'kullanici-service'
+include 'KullaniciServisi'
+include 'SehirServisi'
+include 'TahminYonetimServisi'
+include 'SkorYonetimiServisi'
+
